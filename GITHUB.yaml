@@ -1,0 +1,7 @@
+echo "# Deris-Marnita-Agustin" >> README.md 
+git init 
+git add README.md 
+git commit -m "komit pertama" 
+git branch -M main 
+git remote add origin https://github.com/derisma38/Deris-Marnita-Agustin.git
+ git push -u origin main
